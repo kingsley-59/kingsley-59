@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kingsleyakahibe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QOVl8YyttvYyV76KrVC4WdftJs6YS9NN/view?usp=sharing](https://drive.google.com/file/d/1QOVl8YyttvYyV76KrVC4WdftJs6YS9NN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk](https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love swimming**
 
