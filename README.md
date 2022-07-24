@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kingsleyakahibe" target="blank"><img src="https://img.shields.io/twitter/follow/kingsleyakahibe?logo=twitter&style=for-the-badge" alt="kingsleyakahibe" /></a> </p>
 
-- 🔭 I’m currently working on [VendorCrest Digital](vendorcrest.com)
+- 🔭 I’m currently working on [VendorCrest Digital](https://vendorcrest.com)
 
 - 🌱 I’m currently learning **Blockchain development (web3.js and solidity). Also exploring devops tools like docker, kubernetes and circle ci.**
 
