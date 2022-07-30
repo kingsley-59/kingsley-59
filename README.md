@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [VendorCrest Digital](https://vendorcrest.com)
 
-- 🌱 I’m currently learning **Blockchain development (web3.js and solidity). Also exploring devops tools like docker, kubernetes and circle ci.**
+<!--- - 🌱 I’m currently learning **Blockchain development (web3.js and solidity). Also exploring devops tools like docker, kubernetes and circle ci.** --->
 
 - 💬 Ask me about **React, Nodejs, PHP, Python, SQL and NoSQL databases, API, web software technologies generally.**
 
