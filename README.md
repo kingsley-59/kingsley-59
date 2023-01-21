@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Nodejs, PHP, Python, SQL and NoSQL databases, API, web software technologies generally.**
 
-- 📫 How to reach me **kingsleyakahibe@gmail.com**
+<!--- 📫 How to reach me **kingsleyakahibe@gmail.com** --->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk](https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk)
 
