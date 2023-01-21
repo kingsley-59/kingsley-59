@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kingsleyakahibe@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk](https://github.com/kingsley-59/kingsley-59/blob/main/README.md)
+- 📄 Know about my experiences: [See my resume](https://github.com/kingsley-59/kingsley-59/blob/main/Kingsley%20Akahibe_resume%20(1).pdf)
 
 - ⚡ Fun fact **I love swimming**
 
