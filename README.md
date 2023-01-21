@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/kivel_debug" target="blank"><img src="https://img.shields.io/twitter/follow/kingsleyakahibe?logo=twitter&style=for-the-badge" alt="kingsleyakahibe" /></a> </p>
 
-- 🔭 I’m currently working on [VendorCrest Digital](https://vendorcrest.com)
+<!--- 🔭 I’m currently working on [VendorCrest Digital](https://vendorcrest.com) --->
 
 <!--- - 🌱 I’m currently learning **Blockchain development (web3.js and solidity). Also exploring devops tools like docker, kubernetes and circle ci.** --->
 
 - 💬 Ask me about **React, Nodejs, PHP, Python, SQL and NoSQL databases, API, web software technologies generally.**
 
-<!--- 📫 How to reach me **kingsleyakahibe@gmail.com** --->
+- 📫 How to reach me **kingsleyakahibe@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk](https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dJsVMTPFRU-XfeKuNCIwFT_BjUs0ZfXa/view?usp=drivesdk](https://github.com/kingsley-59/kingsley-59/blob/main/README.md)
 
 - ⚡ Fun fact **I love swimming**
 
