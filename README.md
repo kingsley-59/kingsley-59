@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kingsley Akahibe</h1>
 <h3 align="center">Software Engineer || JavaScript, PHP & Python || loves to learn new things and provide solutions</h3>
 
-<p align="left"> <a href="https://twitter.com/kingsleyakahibe" target="blank"><img src="https://img.shields.io/twitter/follow/kingsleyakahibe?logo=twitter&style=for-the-badge" alt="kingsleyakahibe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kivel_debug" target="blank"><img src="https://img.shields.io/twitter/follow/kingsleyakahibe?logo=twitter&style=for-the-badge" alt="kingsleyakahibe" /></a> </p>
 
 - 🔭 I’m currently working on [VendorCrest Digital](https://vendorcrest.com)
 
